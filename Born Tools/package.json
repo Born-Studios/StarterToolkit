@@ -1,0 +1,23 @@
+{
+  "name": "com.born.tools",
+  "version": "1.0.0",
+  "displayName": "Born Tools",
+  "description": "Common Statup Tools",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/Born-Studios",
+  "changelogUrl": "https://github.com/Born-Studios",
+  "licensesUrl": "https://github.com/Born-Studios",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Born Studios",
+    "email": "info@born.net",
+    "url": "https://github.com/Born-Studios"
+  }
+}
