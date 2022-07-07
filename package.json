@@ -4,9 +4,9 @@
   "displayName": "Born Tools",
   "description": "Common Statup Tools",
   "unity": "2020.1",
-  "documentationUrl": "https://github.com/Born-Studios/StarterTools/",
-  "changelogUrl": "https://github.com/Born-Studios/StarterTools/",
-  "licensesUrl": "https://github.com/Born-Studios/StarterTools/",
+  "documentationUrl": "https://github.com/Born-Studios",
+  "changelogUrl": "https://github.com/Born-Studios",
+  "licensesUrl": "https://github.com/Born-Studios",
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
  },
