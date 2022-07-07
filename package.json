@@ -1,21 +1,15 @@
 {
-  "name": "com.born.tools",
-  "version": "1.0.0",
-  "displayName": "Born Tools",
-  "description": "Common Statup Tools",
+  "name": "com.born-studios.starter-tools",
+  "version": "0.9.11",
+  "displayName": "Born - Starter Toolkit",
+  "description": "Common library for Unity applications.",
   "unity": "2020.1",
-<<<<<<< HEAD
-  "documentationUrl": "https://github.com/Born-Studios",
-  "changelogUrl": "https://github.com/Born-Studios",
-  "licensesUrl": "https://github.com/Born-Studios",
-=======
-  "documentationUrl": "https://github.com/Born-Studios/StarterTools/",
-  "changelogUrl": "https://github.com/Born-Studios/StarterTools/",
-  "licensesUrl": "https://github.com/Born-Studios/StarterTools/",
->>>>>>> parent of 831bfe3 (package.json moved to lib)
+  "documentationUrl": "https://github.com/Born-Studios/StarterToolkit",
+  "changelogUrl": "https://github.com/Born-Studios/StarterToolkit",
+  "licensesUrl": "https://github.com/Born-Studios/StarterToolkit",
   "dependencies": {
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
- },
+  "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  },
  "keywords": [
     "Tools",
     "Starter",
